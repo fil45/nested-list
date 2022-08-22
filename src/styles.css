@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.ant-list {
+  margin-top: 20px;
+}
+
+.list-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
